@@ -1,5 +1,5 @@
 # cloudy-a
-A simple script for light animations for two LED strips according to the weather forecast. For an example see [Youtube](https://www.youtube.com/watch?v=DNXssI4LuMc)
+A simple script for light animations for two LED strips according to the weather forecast. For an example see [Youtube](https://www.youtube.com/watch?v=DNXssI4LuMc)  
 Instructions for use: 
 Here is a short write-up of some instructions to make your own DIY weather forecast cloud lamp.  
 I have done this with a Raspberry Pi 3 since there were no Pi Zero’s to be bought anywhere. But since this is probably a bit overkill for this project and right now they seem to be in stock again I would recommend trying this with a Raspberry Pi Zero. If you do, make sure to let us know if it’s working! This tutorial will reference other tutorials as well, since I do not see the need to write again something others have described in a much better way than me.
