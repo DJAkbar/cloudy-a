@@ -230,10 +230,10 @@ def main_loop():
 			prog = conditions[orig_conditions]
 		except:
 			time.sleep(10)
-      for period in myweather_sum:
-        if period['period'] == ampm:
-          orig_conditions = period['icon']
-      prog = conditions[orig_conditions]
+#      for period in myweather_sum:
+#       if period['period'] == ampm:
+#          orig_conditions = period['icon']
+#      prog = conditions[orig_conditions]
 
 		if  prog=="rainy":
 			rain()
