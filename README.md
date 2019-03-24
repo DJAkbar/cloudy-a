@@ -6,7 +6,8 @@ I have done this with a Raspberry Pi 3 since there were no Pi Zero’s to be bou
 Some things should be set-up already:  
 + Python and pigpio installed on the Raspberry Pi  
 + An internet connection (if you’re not using WIFI make sure to have a cable that’s long enough)  
-+ A WeatherUnderground API key and your location to append the link for the request. For more information see [here](https://github.com/InitialState/wunderground-sensehat/wiki/Part-1.-How-to-Use-the-Wunderground-API)  
++ A WeatherUnderground API key and your location to append the link for the request. For more information see [here](https://github.com/InitialState/wunderground-sensehat/wiki/Part-1.-How-to-Use-the-Wunderground-API) 
+*Dark Sky is now suggested as a free alternative for Weather Underground
 
 So what do you need:  
 + Raspberry Pi (obviously)  
